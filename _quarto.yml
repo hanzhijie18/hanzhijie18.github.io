@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  page-navigation: true
+  title: "Zhijie Han"
+  site-url: https://hanzhijie.github.io
+  favicon: images/site-logo.png
+  repo-url: https://github.com/hanzhijie/hanzhijie.github.io
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    right: |
+      Made with [Quarto](https://quarto.org/)<br>
+    
+  navbar: 
+    background: "#A9CCE3"
+    search: true
+    right: 
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: CV.pdf
+
+format:
+  html:
+    theme: styles.scss
+    toc: true            # 启用目录
+    toc-position: right  # 将目录放置在页面的右侧
+    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细

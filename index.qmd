@@ -1,0 +1,43 @@
+---
+title: "Zhijie Han"
+image: images/hanzhijie_2025.png
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: Z.Han18@lse.ac.uk
+      href: mailto:Z.Han18@lse.ac.uk
+    - icon: github
+      text: Jayhan4869
+      href: https://github.com/jayhan4869
+    - icon: book
+      text: CNKI
+      href: https://au.cnki.net/author/personalInfo/000057933112
+    - icon: brands xing
+      text: 小红书
+      href: https://www.xiaohongshu.com/user/profile/5e47f6d20000000001001a48
+    - icon: 📝
+      text: CV
+      href: Zhijie_CV.pdf  
+---
+
+::: {#hero-heading}
+
+Zhijie Han is a political science researcher specializing in political economy, party and elite politics, and public administration, with a particular focus on Chinese governance and digital-state capacity.
+
+His research examines how institutional design, cadre incentives, and digital governance tools shape political control, policy implementation, and fiscal and developmental outcomes. Methodologically, he combines causal inference, text-as-data approaches, and large-scale elite biographical data, drawing on both qualitative institutional analysis and quantitative empirical strategies such as DID, RDD, and panel models.
+
+Zhijie has conducted extensive research on Chinese political elites, including the construction and analysis of large-scale career databases. His recent projects also extend to digital governance and AI in social science, including the evaluation of LLM-generated silicon samples for political research.
+
+His work has been presented at major international conferences, including the Midwest Political Science Association (MPSA) and the International Conference on Political Sociology, and published in peer-reviewed journals in political theory and political sociology. He is currently pursuing advanced training in political science and political economy at the London School of Economics and Political Science.
+
+## Background
+
+- 2025 – Present: MSc in Political Science (Political Science & Political Economy), London School of Economics and Political Science
+- 2022 - 2025: M.Phil. in Marxist Theory, University of Chinese Academy of Sciences, specializing in Chinese Communist Party History and Party Building
+- 2018 - 2022: B.A. in Management (Joint Honors Program in Politics, Law, and Sociology), Peking University, majoring in public administration
+
+:::
