@@ -2,4 +2,5 @@
 title: "📜 Curriculum Vitae"
 ---
 
-> [Download CV](/Users/hanzhijie/Documents/GitHub/hanzhijie18.github.io/Zhijie_CV.pdf) &emsp; Latest update: November 2025
+> 📄 **[Download CV (PDF)](/Zhijie_CV.pdf)**  
+> *Latest update: November 2025*
