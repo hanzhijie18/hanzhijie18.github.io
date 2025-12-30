@@ -3,14 +3,12 @@ title: "Publications"
 editor: visual
 ---
 
-:::: callout-note
 ::: callout-note
 ## Links
 
 -   CNKI: <https://au.cnki.net/author/personalinfo/000057933112>
 -   ResearchGate: <https://www.researchgate.net/profile/Zhijie-Han-4>
 :::
-::::
 
  
 
